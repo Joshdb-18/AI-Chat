@@ -1,0 +1,1 @@
+"use strict";(this.webpackChunkproject_bae=this.webpackChunkproject_bae||[]).push([[280],{90280:function(e,t,c){c.r(t);var u=c(62991);t.default=function(){return u.createElement("div",{className:"w-full flex justify-center"})}}}]);
